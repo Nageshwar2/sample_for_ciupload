@@ -1,9 +1,9 @@
 # sample_for_ciupload
 
-Framework used : Codeigniter 3.0.0 HMVC 
-project configured for : localhost server
-php version : 7.2.0 or Higher
-database used : MySql
+Framework used : Codeigniter 3.0.0 HMVC.
+project configured for : localhost server.
+php version : 7.2.0 or Higher.
+database used : MySql.
 
 minor description :
 
