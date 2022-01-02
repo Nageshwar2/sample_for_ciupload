@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    padding-top: 20px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #E78114;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-field{
+    padding: 12px 12px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #F58A17;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.container {
+    width: 70%;
+}
+
+.form-group {
+    text-align: left;
+}
+
+.form-label {
+    padding-left: 10px;
+}
+
+.mb-2 {
+    margin-bottom: 20px;
+}
+
+
+#data {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#data td, #data th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#data tr:nth-child(even){background-color: #f2f2f2;}
+
+#data tr:hover {background-color: #ddd;}
+
+#data th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #E78114;
+    color: white;
+}
+
+.heading3 {
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+a {
+    /* float: right; */
+    border-radius: 5%;
+    background-color: #E78114;
+    color: #f2f2f2;
+    padding: 8px 12px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+a:hover {
+    background-color: #F58A17;
+}
+
+
+.form-button {
+    /* float: right; */
+    border-radius: 5%;
+    background-color: #E78114;
+    color: #f2f2f2;
+    padding: 12px 12px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-button:hover {
+    background-color: #F58A17;
+}
+
+.mb-2 {
+    margin-bottom: 20px;
+}
+
+.f-right {
+    float: right;
+    /* padding: 10px; */
+}
+
+.searchbox {
+float: right;
+padding: 6px 10px;
+margin-right: 16px;
+background: #ddd;
+font-size: 17px;
+border-radius: 5%;
+}
